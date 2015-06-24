@@ -6,6 +6,14 @@ Great tutorials and libs I have found along the way.
 ## AngularJS
 ----------------------
 ## Go
+
+#### Libs
+* [Martini](https://github.com/go-martini/martini) Sinatra style server for go
+
+#### Tuts
+* [Executing os commands](http://www.darrencoxall.com/golang/executing-commands-in-go/)
+ 
+
 ----------------------
 ## R
 
