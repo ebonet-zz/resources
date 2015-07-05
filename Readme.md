@@ -2,6 +2,13 @@
 Great tutorials and libs I have found along the way.
 
 ## Android
+
+#### Tuts
+* [Good tutorial on the new Android Design Library](http://inthecheesefactory.com/blog)
+* [Publishing you library](http://inthecheesefactory.com/blog/how-to-upload-library-to-jcenter-maven-central-as-dependency/en)
+* [Good explanation on Fragment State](http://inthecheesefactory.com/blog/fragment-state-saving-best-practices/en)
+* [RxJava - Loading multiple resources](http://blog.danlew.net/2015/06/22/loading-data-from-multiple-sources-with-rxjava/)
+
 ----------------------
 ## AngularJS
 ----------------------
