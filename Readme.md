@@ -1,6 +1,10 @@
 # My Resources
 Great tutorials and libs I have found along the way.
 
+## Design
+* [Designing for the color blind](https://medium.com/@aaron10buuren/designing-for-and-with-color-blindness-48392aab3d87)
+
+
 ## Android
 
 #### Tuts
