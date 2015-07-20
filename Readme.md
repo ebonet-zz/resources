@@ -23,6 +23,9 @@ Great tutorials and libs I have found along the way.
 
 #### Tuts
 * [Executing os commands](http://www.darrencoxall.com/golang/executing-commands-in-go/)
+
+#### Help
+* [Atom doens't auto-build](https://github.com/joefitzgerald/go-plus/issues/216)
  
 
 ----------------------
