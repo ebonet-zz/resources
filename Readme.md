@@ -9,7 +9,7 @@ Great tutorials and libs I have found along the way.
 
 #### Tuts
 * [Good tutorial on the new Android Design Library](http://inthecheesefactory.com/blog)
-* [Publishing you library](http://inthecheesefactory.com/blog/how-to-upload-library-to-jcenter-maven-central-as-dependency/en)
+* [Publishing your library](http://inthecheesefactory.com/blog/how-to-upload-library-to-jcenter-maven-central-as-dependency/en)
 * [Good explanation on Fragment State](http://inthecheesefactory.com/blog/fragment-state-saving-best-practices/en)
 * [RxJava - Loading multiple resources](http://blog.danlew.net/2015/06/22/loading-data-from-multiple-sources-with-rxjava/)
 
@@ -36,7 +36,7 @@ Great tutorials and libs I have found along the way.
 
 #### Tutorials
 * [Reestructuring dataframes](http://www.r-statistics.com/2012/01/aggregation-and-restructuring-data-from-r-in-action/)
-* 
+
 
 --------------------
 
@@ -45,7 +45,7 @@ Great tutorials and libs I have found along the way.
 #### Recipes
 
 * Get 10 random elements of csv while keeping the header
-* 
+
 ``` bash
 (head -n 1 file.csv && tail -n +1 file.csv | shuf | head -n 10) > file.csv
 ```
