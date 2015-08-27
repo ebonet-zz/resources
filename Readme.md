@@ -38,4 +38,16 @@ Great tutorials and libs I have found along the way.
 * [Reestructuring dataframes](http://www.r-statistics.com/2012/01/aggregation-and-restructuring-data-from-r-in-action/)
 * 
 
+--------------------
+
+## Unix
+
+#### Recipes
+
+* Get 10 random elements of csv while keeping the header
+* 
+``` bash
+(head -n 1 file.csv && tail -n +1 file.csv | shuf | head -n 10) > file.csv
+```
+
 
